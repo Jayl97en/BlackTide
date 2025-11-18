@@ -2066,3 +2066,456 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.18-16.26.02:742][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
 [2025.11.18-16.26.02:763][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2025.11.18-16.26.02:779][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.568 ms (total: 5.18 sec)
+[2025.11.18-16.30.31:604][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4040.233643
+[2025.11.18-16.30.32:604][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-16.30.32:604][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4040.899658, Update Interval: 313.074127
+[2025.11.18-16.36.22:608][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4391.243164
+[2025.11.18-16.36.22:807][737]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-16.36.22:807][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4391.426270, Update Interval: 308.020264
+[2025.11.18-16.37.39:833][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-16.37.39:955][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.18-16.37.39:973][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.18-16.37.39:995][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.11.18-16.37.40:012][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.925 ms (total: 5.36 sec)
+[2025.11.18-16.38.43:058][624]LogStreaming: Display: FlushAsyncLoading(822): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.38.43:288][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01
+[2025.11.18-16.38.43:288][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01
+[2025.11.18-16.38.43:289][626]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_3
+[2025.11.18-16.38.45:119][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.18-16.38.45:123][731]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.11.18-16.38.45:130][731]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01
+[2025.11.18-16.38.45:130][731]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01
+[2025.11.18-16.38.45:133][731]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C650A302_1712338794
+[2025.11.18-16.40.03:821][729]LogStreaming: Display: FlushAsyncLoading(823): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.40.04:333][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Chair_01.SM_Chair_01
+[2025.11.18-16.40.04:333][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Chair_01.SM_Chair_01
+[2025.11.18-16.40.04:333][748]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Chair_01.SM_Chair_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_4
+[2025.11.18-16.40.05:323][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.11.18-16.40.05:327][805]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.11.18-16.40.05:335][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Chair_01.SM_Chair_01
+[2025.11.18-16.40.05:335][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Chair_01.SM_Chair_01
+[2025.11.18-16.40.05:337][805]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Chair_01.SM_Chair_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C650A302_1792543795
+[2025.11.18-16.41.49:018][551]Cmd: EDIT COPY
+[2025.11.18-16.41.49:346][570]Cmd: EDIT PASTE
+[2025.11.18-16.42.00:027][197]Cmd: EDIT COPY
+[2025.11.18-16.42.00:530][227]Cmd: EDIT PASTE
+[2025.11.18-16.42.11:527][877]Cmd: EDIT COPY
+[2025.11.18-16.42.11:994][905]Cmd: EDIT PASTE
+[2025.11.18-16.42.20:214][390]Cmd: EDIT COPY
+[2025.11.18-16.42.20:621][414]Cmd: EDIT PASTE
+[2025.11.18-16.42.22:573][525]Cmd: TRANSACTION UNDO
+[2025.11.18-16.42.22:573][525]LogEditorTransaction: Undo Move Elements
+[2025.11.18-16.42.26:723][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4755.363281
+[2025.11.18-16.42.26:813][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-16.42.26:813][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4755.437012, Update Interval: 332.240356
+[2025.11.18-16.43.54:188][825]Cmd: EDIT COPY
+[2025.11.18-16.43.54:498][843]Cmd: EDIT PASTE
+[2025.11.18-16.44.03:068][340]Cmd: EDIT PASTE
+[2025.11.18-16.44.12:757][914]Cmd: EDIT COPY
+[2025.11.18-16.44.13:295][943]Cmd: EDIT PASTE
+[2025.11.18-16.44.22:776][349]Cmd: EDIT PASTE
+[2025.11.18-16.44.29:662][742]Cmd: EDIT PASTE
+[2025.11.18-16.44.31:246][832]Cmd: TRANSACTION UNDO
+[2025.11.18-16.44.31:246][832]LogEditorTransaction: Undo Paste
+[2025.11.18-16.44.32:454][880]Cmd: EDIT COPY
+[2025.11.18-16.44.32:788][900]Cmd: EDIT PASTE
+[2025.11.18-16.44.39:204][272]Cmd: EDIT COPY
+[2025.11.18-16.44.39:603][296]Cmd: EDIT PASTE
+[2025.11.18-16.46.02:075][654]LogStreaming: Display: FlushAsyncLoading(824): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.46.02:425][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_01.SM_Table_01
+[2025.11.18-16.46.02:425][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_01.SM_Table_01
+[2025.11.18-16.46.02:426][665]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_01.SM_Table_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_5
+[2025.11.18-16.46.04:608][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.18-16.46.04:611][793]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.11.18-16.46.04:619][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_01.SM_Table_01
+[2025.11.18-16.46.04:619][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_01.SM_Table_01
+[2025.11.18-16.46.04:621][793]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_01.SM_Table_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_1078086018
+[2025.11.18-16.46.58:174][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01
+[2025.11.18-16.46.58:174][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01
+[2025.11.18-16.46.58:174][917]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_6
+[2025.11.18-16.46.58:968][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.18-16.46.58:970][963]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.11.18-16.46.58:977][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01
+[2025.11.18-16.46.58:977][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01
+[2025.11.18-16.46.58:980][963]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Stool_01.SM_Stool_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_1132444019
+[2025.11.18-16.47.09:089][554]Cmd: TRANSACTION UNDO
+[2025.11.18-16.47.09:089][554]LogEditorTransaction: Undo Scale Elements
+[2025.11.18-16.47.39:579][260]Cmd: EDIT COPY
+[2025.11.18-16.47.40:000][285]Cmd: EDIT PASTE
+[2025.11.18-16.47.43:912][512]Cmd: EDIT COPY
+[2025.11.18-16.47.44:260][530]Cmd: EDIT PASTE
+[2025.11.18-16.47.46:355][647]Cmd: EDIT PASTE
+[2025.11.18-16.47.52:189][986]Cmd: EDIT PASTE
+[2025.11.18-16.48.25:574][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-16.48.25:712][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.11.18-16.48.25:738][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.18-16.48.25:762][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.11.18-16.48.25:780][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/8J/GWB7900393ZCRHINKH6TB4
+[2025.11.18-16.48.25:780][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/GWB7900393ZCRHINKH6TB48ADE38704B8C6750AB573995149A8819.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/8J/GWB7900393ZCRHINKH6TB4.uasset'
+[2025.11.18-16.48.25:792][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/AU/RJPC6Z4ZOQG5HZX99315NC
+[2025.11.18-16.48.25:793][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/RJPC6Z4ZOQG5HZX99315NC1BFADAB244F505AC5B7B47B67D63E333.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/AU/RJPC6Z4ZOQG5HZX99315NC.uasset'
+[2025.11.18-16.48.25:803][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/QS/QJXGZNN4U0XFYO6RU7TS3F
+[2025.11.18-16.48.25:804][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/QJXGZNN4U0XFYO6RU7TS3FF168057F4B1805F3D51C34BF21F31453.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/QS/QJXGZNN4U0XFYO6RU7TS3F.uasset'
+[2025.11.18-16.48.25:812][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/D/5W/99Q5VWKWLRJKVSAGK2YZ7R
+[2025.11.18-16.48.25:813][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/99Q5VWKWLRJKVSAGK2YZ7R3BB46F4C47916E81867B6DB81AA2EC4C.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/D/5W/99Q5VWKWLRJKVSAGK2YZ7R.uasset'
+[2025.11.18-16.48.25:823][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/Z1/HS1XN2RAZVAUJ5BVQHNAP8
+[2025.11.18-16.48.25:824][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/HS1XN2RAZVAUJ5BVQHNAP8F717A95A45E1C5DCAAB9FE86A3D39FA6.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/Z1/HS1XN2RAZVAUJ5BVQHNAP8.uasset'
+[2025.11.18-16.48.25:834][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/AN/GYJILCLH5FZ28LC0XXFE0S
+[2025.11.18-16.48.25:834][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/GYJILCLH5FZ28LC0XXFE0S2EFCED1145A5D6752144C89B1F4959E5.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/AN/GYJILCLH5FZ28LC0XXFE0S.uasset'
+[2025.11.18-16.48.25:843][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/RH/N9S4DSXETRY4YJW16FITQA
+[2025.11.18-16.48.25:843][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/N9S4DSXETRY4YJW16FITQA6213FCF24C9509160765A886CE15D431.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/RH/N9S4DSXETRY4YJW16FITQA.uasset'
+[2025.11.18-16.48.25:853][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/D/OX/27PUKJ94ZP8ERH7PZR6EUK
+[2025.11.18-16.48.25:853][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/27PUKJ94ZP8ERH7PZR6EUKEAEA874A4D466DABE401DD96391BFC66.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/D/OX/27PUKJ94ZP8ERH7PZR6EUK.uasset'
+[2025.11.18-16.48.25:862][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/LT/UF88TLS1PDFPV1W6YFM1RH
+[2025.11.18-16.48.25:862][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/UF88TLS1PDFPV1W6YFM1RHA7986489401328B5BA6481807A3A2A21.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/LT/UF88TLS1PDFPV1W6YFM1RH.uasset'
+[2025.11.18-16.48.25:871][951]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Map/OldMap/5/3H/BCHR4KPZD3YXTR8SJ7YT2L
+[2025.11.18-16.48.25:871][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/BCHR4KPZD3YXTR8SJ7YT2LA76AFD4D47A949BE1AC8C98C8146FA81.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalObjects__/Map/OldMap/5/3H/BCHR4KPZD3YXTR8SJ7YT2L.uasset'
+[2025.11.18-16.48.25:881][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/C/IL/M045D8C7Q93YTDF8I0IQQJ
+[2025.11.18-16.48.25:881][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/M045D8C7Q93YTDF8I0IQQJ71553FE348A74DEA4F58D7B612333B69.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/C/IL/M045D8C7Q93YTDF8I0IQQJ.uasset'
+[2025.11.18-16.48.25:893][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/D/VE/V1XCZ36FVPR79UOHFHWADB
+[2025.11.18-16.48.25:893][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/V1XCZ36FVPR79UOHFHWADB473371D14CF1460F23BA52B6B295B1D2.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/D/VE/V1XCZ36FVPR79UOHFHWADB.uasset'
+[2025.11.18-16.48.25:903][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/LT/KLYQ85O9KDXJQN86RNJZ9J
+[2025.11.18-16.48.25:903][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KLYQ85O9KDXJQN86RNJZ9J0AD003FD43D8D93B7DAD169848064937.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/LT/KLYQ85O9KDXJQN86RNJZ9J.uasset'
+[2025.11.18-16.48.25:912][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/EP/0CD2VUZX8Y64MMIE77WK65
+[2025.11.18-16.48.25:912][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/0CD2VUZX8Y64MMIE77WK65A23A48EE4821E46518DE77AB36A8AD76.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/EP/0CD2VUZX8Y64MMIE77WK65.uasset'
+[2025.11.18-16.48.25:921][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/F7/KJPZUWVSOWHPPAETHD9VZV
+[2025.11.18-16.48.25:921][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KJPZUWVSOWHPPAETHD9VZV523CEEA547888572502DFAA7163237CC.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/F7/KJPZUWVSOWHPPAETHD9VZV.uasset'
+[2025.11.18-16.48.25:931][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/2/NS/BVDCKNJ4KGFIO87WCTIOSK
+[2025.11.18-16.48.25:931][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/BVDCKNJ4KGFIO87WCTIOSK441FD0BF4E722F91052C4E876590C723.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/2/NS/BVDCKNJ4KGFIO87WCTIOSK.uasset'
+[2025.11.18-16.48.25:940][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/UC/7SGXFL478C8RE5ZJSF2X42
+[2025.11.18-16.48.25:940][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/7SGXFL478C8RE5ZJSF2X4219446D9D4A28BEEBB970B8B95B1BE756.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/UC/7SGXFL478C8RE5ZJSF2X42.uasset'
+[2025.11.18-16.48.25:951][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/HQ/LN7ASDDBFHYRXU3RM3YRXA
+[2025.11.18-16.48.25:951][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/LN7ASDDBFHYRXU3RM3YRXAB0504C2D4C91FCD13428EB89E6B218F8.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/HQ/LN7ASDDBFHYRXU3RM3YRXA.uasset'
+[2025.11.18-16.48.25:960][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/A/PR/JX6C6Z7FST763TK5JPJJBP
+[2025.11.18-16.48.25:960][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/JX6C6Z7FST763TK5JPJJBP2F52BBE3421FAFF9147CFFA68EFD638F.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/A/PR/JX6C6Z7FST763TK5JPJJBP.uasset'
+[2025.11.18-16.48.25:969][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/W7/7OLT0H9TLO59E7NI2AK5FR
+[2025.11.18-16.48.25:969][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/7OLT0H9TLO59E7NI2AK5FR045531034C809D64DD905B847ED17BF5.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/W7/7OLT0H9TLO59E7NI2AK5FR.uasset'
+[2025.11.18-16.48.25:977][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/D/AX/ZY1TZ2LQNJOVAO4C8BYM2F
+[2025.11.18-16.48.25:977][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/ZY1TZ2LQNJOVAO4C8BYM2F965E103346374D1BD2BC9A875A11621F.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/D/AX/ZY1TZ2LQNJOVAO4C8BYM2F.uasset'
+[2025.11.18-16.48.25:986][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/9/GL/SWQ6BBOU51IXGXZ1M2X449
+[2025.11.18-16.48.25:987][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/SWQ6BBOU51IXGXZ1M2X4494C071C2B453F0B84C95FD28567DD5801.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/9/GL/SWQ6BBOU51IXGXZ1M2X449.uasset'
+[2025.11.18-16.48.25:996][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/2/ID/QJQCPE975V538MQACS3MXB
+[2025.11.18-16.48.25:996][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/QJQCPE975V538MQACS3MXB65A96C384FD9E15B8750318205BBFD95.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/2/ID/QJQCPE975V538MQACS3MXB.uasset'
+[2025.11.18-16.48.26:005][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/ZB/EH51Y8STEL35E0OG6PEIJS
+[2025.11.18-16.48.26:005][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/EH51Y8STEL35E0OG6PEIJS33E4F19B45807AD55B1C1E8B9CC3EDBE.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/ZB/EH51Y8STEL35E0OG6PEIJS.uasset'
+[2025.11.18-16.48.26:015][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/6/DV/OFYD2CCTAM7Y0CDUWOQ5QL
+[2025.11.18-16.48.26:015][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/OFYD2CCTAM7Y0CDUWOQ5QL3459550441CD3517EE310E926E377628.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/6/DV/OFYD2CCTAM7Y0CDUWOQ5QL.uasset'
+[2025.11.18-16.48.26:024][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/DL/96WVEIQ9M8O02SRVG0O9UM
+[2025.11.18-16.48.26:024][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/96WVEIQ9M8O02SRVG0O9UM7B73D78B4967B9E145BC0D85B262D656.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/DL/96WVEIQ9M8O02SRVG0O9UM.uasset'
+[2025.11.18-16.48.26:034][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/Q5/FUZ898Y0RW71SGREZJZROE
+[2025.11.18-16.48.26:034][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/FUZ898Y0RW71SGREZJZROE98DCE2784C28724BF9BBB39F98BFFB89.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/Q5/FUZ898Y0RW71SGREZJZROE.uasset'
+[2025.11.18-16.48.26:043][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/1/RL/BO4KRVNTDYFOEHMRG58Z9K
+[2025.11.18-16.48.26:043][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/BO4KRVNTDYFOEHMRG58Z9KA0C91FD848D290D058E760969198E15D.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/1/RL/BO4KRVNTDYFOEHMRG58Z9K.uasset'
+[2025.11.18-16.48.26:054][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/XM/FRHSALLNNS4TSXQQABUOL0
+[2025.11.18-16.48.26:054][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/FRHSALLNNS4TSXQQABUOL03141C0704B2EAD807580B1AA90895399.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/XM/FRHSALLNNS4TSXQQABUOL0.uasset'
+[2025.11.18-16.48.26:066][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/92/U674CX6O7WPIJQTBNRYPJZ
+[2025.11.18-16.48.26:066][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/U674CX6O7WPIJQTBNRYPJZAFF1C2354D0CA9D3BF849D8392C68FE1.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/92/U674CX6O7WPIJQTBNRYPJZ.uasset'
+[2025.11.18-16.48.26:078][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/CT/NTR2XBDVXTFKFLVT1G4QCU
+[2025.11.18-16.48.26:078][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/NTR2XBDVXTFKFLVT1G4QCU5899F46D4A290BA972EC20817A30FD7B.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/CT/NTR2XBDVXTFKFLVT1G4QCU.uasset'
+[2025.11.18-16.48.26:090][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/82/8P3W8RWDHF5K60HMLX2Z24
+[2025.11.18-16.48.26:090][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/8P3W8RWDHF5K60HMLX2Z2446A62D26420FF67AA561448461026D4F.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/82/8P3W8RWDHF5K60HMLX2Z24.uasset'
+[2025.11.18-16.48.26:105][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/9I/P8HUCXAR68GB5381W86U22
+[2025.11.18-16.48.26:105][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/P8HUCXAR68GB5381W86U2255852A6545B530B8343909AB74C376A1.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/9I/P8HUCXAR68GB5381W86U22.uasset'
+[2025.11.18-16.48.26:115][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/1/JJ/QLAU7D47XVTRU5SCBFZPC5
+[2025.11.18-16.48.26:115][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/QLAU7D47XVTRU5SCBFZPC552AE88A3449D6C0B80846CB3359C395C.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/1/JJ/QLAU7D47XVTRU5SCBFZPC5.uasset'
+[2025.11.18-16.48.26:125][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/OI/USBR0RAET3VSYSVFFSPU1K
+[2025.11.18-16.48.26:125][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/USBR0RAET3VSYSVFFSPU1K5262739B47106747D7FF96B90B8F6F92.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/OI/USBR0RAET3VSYSVFFSPU1K.uasset'
+[2025.11.18-16.48.26:134][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/ZQ/3JN3RZ2FS84BP2XVXHBBYL
+[2025.11.18-16.48.26:134][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/3JN3RZ2FS84BP2XVXHBBYL144FA8AA4704C6A87BC5F192DD2F0C0F.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/ZQ/3JN3RZ2FS84BP2XVXHBBYL.uasset'
+[2025.11.18-16.48.26:145][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/Q0/LDGPDQ8BKF1B8YGQ4WSTVI
+[2025.11.18-16.48.26:145][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/LDGPDQ8BKF1B8YGQ4WSTVI6E1115694D9E7B76DDD88A83A0C366FB.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/Q0/LDGPDQ8BKF1B8YGQ4WSTVI.uasset'
+[2025.11.18-16.48.26:154][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/1/FX/NQAVB19H35I9WI4DJVUQ69
+[2025.11.18-16.48.26:154][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/NQAVB19H35I9WI4DJVUQ6973CB5C0846503310B26B189FC642CE66.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/1/FX/NQAVB19H35I9WI4DJVUQ69.uasset'
+[2025.11.18-16.48.26:166][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/H2/JU0UQNRBYBE9XL3QDP9RR3
+[2025.11.18-16.48.26:166][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/JU0UQNRBYBE9XL3QDP9RR334B4E0ED418DE40FE84DD3B1ADE87821.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/H2/JU0UQNRBYBE9XL3QDP9RR3.uasset'
+[2025.11.18-16.48.26:176][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/6/FM/JEWLL3A325NNGZCMTOALJ0
+[2025.11.18-16.48.26:176][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/JEWLL3A325NNGZCMTOALJ0DDFEE56E42CA538EA83322947865EA25.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/6/FM/JEWLL3A325NNGZCMTOALJ0.uasset'
+[2025.11.18-16.48.26:186][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/A1/KT9Z506V8V21U36507VO12
+[2025.11.18-16.48.26:186][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KT9Z506V8V21U36507VO12ED56733A4CEB7B9D16F81095DEC2C4C9.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/A1/KT9Z506V8V21U36507VO12.uasset'
+[2025.11.18-16.48.26:195][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/2/FE/4MSNMNCWN3QL4FWMA5VSRM
+[2025.11.18-16.48.26:195][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/4MSNMNCWN3QL4FWMA5VSRMD59A93404A170F1A6834C2BCBBD0D49C.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/2/FE/4MSNMNCWN3QL4FWMA5VSRM.uasset'
+[2025.11.18-16.48.26:205][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/C/JJ/M0304SC7NE95LEXSTIPI1T
+[2025.11.18-16.48.26:205][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/M0304SC7NE95LEXSTIPI1T2745B977433092A2B56FE7A8FA007A9B.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/C/JJ/M0304SC7NE95LEXSTIPI1T.uasset'
+[2025.11.18-16.48.26:213][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/9/B9/KKGD431EQFJMIMVNHC56PC
+[2025.11.18-16.48.26:213][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KKGD431EQFJMIMVNHC56PC4054A39B4289944E62D0B297A58A21C6.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/9/B9/KKGD431EQFJMIMVNHC56PC.uasset'
+[2025.11.18-16.48.26:222][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/FQ/SCRY45BNNVC2WLBP45PZ09
+[2025.11.18-16.48.26:222][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/SCRY45BNNVC2WLBP45PZ09F2CE10E5459ADAC79A0575A627CD85EF.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/FQ/SCRY45BNNVC2WLBP45PZ09.uasset'
+[2025.11.18-16.48.26:232][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/0/L0/EFOLRRQ21UORN9IOZJ0WPP
+[2025.11.18-16.48.26:232][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/EFOLRRQ21UORN9IOZJ0WPP9D7567044DAF83F3228F2D98E42E9182.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/0/L0/EFOLRRQ21UORN9IOZJ0WPP.uasset'
+[2025.11.18-16.48.26:242][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/3B/UQ4T2N53EXHNE7CYW5V1OE
+[2025.11.18-16.48.26:242][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/UQ4T2N53EXHNE7CYW5V1OE578D227A42E793B6582B018CC6CC7A03.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/3B/UQ4T2N53EXHNE7CYW5V1OE.uasset'
+[2025.11.18-16.48.26:251][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/9/JE/A1S3H1EUD0QXEN4VN62RNJ
+[2025.11.18-16.48.26:251][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/A1S3H1EUD0QXEN4VN62RNJ8BE085BB42631050C5371AA67AED5F08.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/9/JE/A1S3H1EUD0QXEN4VN62RNJ.uasset'
+[2025.11.18-16.48.26:261][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/5/1I/GV5G2WGZRQP1B2J3TL5EB0
+[2025.11.18-16.48.26:261][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/GV5G2WGZRQP1B2J3TL5EB0BC34D6444AFFD4A85D21799F56C3744F.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/5/1I/GV5G2WGZRQP1B2J3TL5EB0.uasset'
+[2025.11.18-16.48.26:271][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/0/N0/AACY150UHJ0FCXZWZBO07O
+[2025.11.18-16.48.26:271][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/AACY150UHJ0FCXZWZBO07O70F31BE24FDEE13E7086C99B56FC9057.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/0/N0/AACY150UHJ0FCXZWZBO07O.uasset'
+[2025.11.18-16.48.26:281][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/0/0Z/BQONIUJ2Q733N9D6P5V2QN
+[2025.11.18-16.48.26:281][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/BQONIUJ2Q733N9D6P5V2QN15B38D2149D384DFFE45ECA58628C2D2.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/0/0Z/BQONIUJ2Q733N9D6P5V2QN.uasset'
+[2025.11.18-16.48.26:290][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/H3/ETM96RWVENWCLI47TZIG74
+[2025.11.18-16.48.26:290][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/ETM96RWVENWCLI47TZIG740CBC96A84A652C32356FAC9CBDE7FE55.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/H3/ETM96RWVENWCLI47TZIG74.uasset'
+[2025.11.18-16.48.26:304][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/A/9G/4FX8HAG268M70CWCG53R5O
+[2025.11.18-16.48.26:304][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/4FX8HAG268M70CWCG53R5OF75FB50247858FABEC69A7880DDBDF89.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/A/9G/4FX8HAG268M70CWCG53R5O.uasset'
+[2025.11.18-16.48.26:312][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/0/T8/MDFD23A1NE15FZWNZR6O0L
+[2025.11.18-16.48.26:312][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/MDFD23A1NE15FZWNZR6O0L349D3B204AE37E808DC6B6A2C1CEA166.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/0/T8/MDFD23A1NE15FZWNZR6O0L.uasset'
+[2025.11.18-16.48.26:322][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/VP/8U6M1G1WM3BWINMVAP8BI9
+[2025.11.18-16.48.26:322][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/8U6M1G1WM3BWINMVAP8BI9270FFB4B4B40C06636BEF1978B9C635E.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/VP/8U6M1G1WM3BWINMVAP8BI9.uasset'
+[2025.11.18-16.48.26:331][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/RG/9M34Y9OD0BBBNGVR4YFHMV
+[2025.11.18-16.48.26:331][951]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/9M34Y9OD0BBBNGVR4YFHMV6B9792BF406040B63A5EEBAD0D568331.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/RG/9M34Y9OD0BBBNGVR4YFHMV.uasset'
+[2025.11.18-16.48.26:346][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 772.699 ms (total: 6.14 sec)
+[2025.11.18-16.48.26:463][951]LogContentValidation: Display: Starting to validate 56 assets
+[2025.11.18-16.48.26:463][951]LogContentValidation: Enabled validators:
+[2025.11.18-16.48.26:463][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-16.48.26:463][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-16.48.26:463][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-16.48.26:463][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-16.48.26:463][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-16.48.26:463][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-16.48.26:463][951]AssetCheck: /Game/Map/OldMap Validating asset
+[2025.11.18-16.48.26:487][951]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GitHub/BlackTide/Black_Tide/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.18-16.48.41:955][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5130.615234
+[2025.11.18-16.48.42:071][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-16.48.42:071][810]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5130.714844, Update Interval: 329.435089
+[2025.11.18-16.51.44:723][310]LogStreaming: Display: FlushAsyncLoading(825): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.51.45:225][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Couch_01.SM_Couch_01
+[2025.11.18-16.51.45:225][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Couch_01.SM_Couch_01
+[2025.11.18-16.51.45:226][326]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Couch_01.SM_Couch_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_7
+[2025.11.18-16.51.46:244][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.11.18-16.51.46:247][385]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.11.18-16.51.46:255][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Couch_01.SM_Couch_01
+[2025.11.18-16.51.46:255][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Couch_01.SM_Couch_01
+[2025.11.18-16.51.46:257][385]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Couch_01.SM_Couch_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_1419722024
+[2025.11.18-16.51.52:861][749]Cmd: ELEMENT MIRROR X=-1
+[2025.11.18-16.53.13:206][192]Cmd: TRANSACTION UNDO
+[2025.11.18-16.53.13:206][192]LogEditorTransaction: Undo Move Elements
+[2025.11.18-16.53.57:191][734]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.53.57:510][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Fireplace_02.SM_Fireplace_02
+[2025.11.18-16.53.57:510][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Fireplace_02.SM_Fireplace_02
+[2025.11.18-16.53.57:511][739]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Fireplace_02.SM_Fireplace_02 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_8
+[2025.11.18-16.53.58:271][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.11.18-16.53.58:274][779]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.11.18-16.53.58:284][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Fireplace_02.SM_Fireplace_02
+[2025.11.18-16.53.58:284][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Fireplace_02.SM_Fireplace_02
+[2025.11.18-16.53.58:287][779]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Fireplace_02.SM_Fireplace_02 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_1551751025
+[2025.11.18-16.54.29:907][608]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.54.30:264][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Firewood_01.SM_Firewood_01
+[2025.11.18-16.54.30:264][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Firewood_01.SM_Firewood_01
+[2025.11.18-16.54.30:265][614]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Firewood_01.SM_Firewood_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_9
+[2025.11.18-16.54.30:968][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.18-16.54.30:970][652]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.18-16.54.30:977][652]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Firewood_01.SM_Firewood_01
+[2025.11.18-16.54.30:977][652]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Firewood_01.SM_Firewood_01
+[2025.11.18-16.54.30:979][652]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Firewood_01.SM_Firewood_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_1584444026
+[2025.11.18-16.54.49:863][752]Cmd: EDIT COPY
+[2025.11.18-16.54.50:272][776]Cmd: EDIT PASTE
+[2025.11.18-16.55.03:822][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5512.479004
+[2025.11.18-16.55.03:888][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-16.55.03:888][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5512.528809, Update Interval: 343.357025
+[2025.11.18-16.55.52:458][203]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.55.52:893][218]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_02.SM_Table_02
+[2025.11.18-16.55.52:893][218]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_02.SM_Table_02
+[2025.11.18-16.55.52:893][218]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_02.SM_Table_02 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_10
+[2025.11.18-16.55.53:959][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.18-16.55.53:964][280]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.11.18-16.55.53:971][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_02.SM_Table_02
+[2025.11.18-16.55.53:971][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_02.SM_Table_02
+[2025.11.18-16.55.53:973][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Table_02.SM_Table_02 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_1667438028
+[2025.11.18-16.56.28:943][336]Cmd: EDIT COPY
+[2025.11.18-16.56.29:314][358]Cmd: EDIT PASTE
+[2025.11.18-16.56.37:022][804]Cmd: EDIT COPY
+[2025.11.18-16.56.37:357][823]Cmd: EDIT PASTE
+[2025.11.18-16.56.47:521][418]Cmd: EDIT COPY
+[2025.11.18-16.56.47:843][437]Cmd: EDIT PASTE
+[2025.11.18-16.57.14:890][ 23]Cmd: EDIT COPY
+[2025.11.18-16.57.15:228][ 43]Cmd: EDIT PASTE
+[2025.11.18-16.57.36:285][267]Cmd: EDIT COPY
+[2025.11.18-16.57.36:707][292]Cmd: EDIT PASTE
+[2025.11.18-16.58.46:847][733]LogStreaming: Display: FlushAsyncLoading(829): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-16.58.47:126][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Jar_Cork_01.SM_Jar_Cork_01
+[2025.11.18-16.58.47:126][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Jar_Cork_01.SM_Jar_Cork_01
+[2025.11.18-16.58.47:126][737]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Jar_Cork_01.SM_Jar_Cork_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_11
+[2025.11.18-16.58.48:224][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.11.18-16.58.48:228][801]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.11.18-16.58.48:235][801]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Jar_Cork_01.SM_Jar_Cork_01
+[2025.11.18-16.58.48:235][801]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Jar_Cork_01.SM_Jar_Cork_01
+[2025.11.18-16.58.48:238][801]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Jar_Cork_01.SM_Jar_Cork_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_1841702038
+[2025.11.18-16.59.50:463][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-16.59.50:591][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.11.18-16.59.50:617][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.18-16.59.50:640][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.11.18-16.59.50:658][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/D/OX/27PUKJ94ZP8ERH7PZR6EUK
+[2025.11.18-16.59.50:658][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/27PUKJ94ZP8ERH7PZR6EUK3F794A294AEE42BA3D96DE8A6A7488A3.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/D/OX/27PUKJ94ZP8ERH7PZR6EUK.uasset'
+[2025.11.18-16.59.50:669][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/LT/UF88TLS1PDFPV1W6YFM1RH
+[2025.11.18-16.59.50:670][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/UF88TLS1PDFPV1W6YFM1RHA9D8996E4B240D7BE6C7328E8B509A5B.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/LT/UF88TLS1PDFPV1W6YFM1RH.uasset'
+[2025.11.18-16.59.50:679][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/C/IL/M045D8C7Q93YTDF8I0IQQJ
+[2025.11.18-16.59.50:679][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/M045D8C7Q93YTDF8I0IQQJ83A9ECF445C99C69589A89B610134B65.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/C/IL/M045D8C7Q93YTDF8I0IQQJ.uasset'
+[2025.11.18-16.59.50:688][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/D/VE/V1XCZ36FVPR79UOHFHWADB
+[2025.11.18-16.59.50:688][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/V1XCZ36FVPR79UOHFHWADB1ABB96CD4D5687CF245F8493D122C441.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/D/VE/V1XCZ36FVPR79UOHFHWADB.uasset'
+[2025.11.18-16.59.50:696][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/LT/KLYQ85O9KDXJQN86RNJZ9J
+[2025.11.18-16.59.50:696][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KLYQ85O9KDXJQN86RNJZ9J798C4CB64FF9FD7458E2F69523D472C8.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/LT/KLYQ85O9KDXJQN86RNJZ9J.uasset'
+[2025.11.18-16.59.50:705][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/EP/0CD2VUZX8Y64MMIE77WK65
+[2025.11.18-16.59.50:705][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/0CD2VUZX8Y64MMIE77WK65DC24A66B49565382B8BEB1BBF156E2F9.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/EP/0CD2VUZX8Y64MMIE77WK65.uasset'
+[2025.11.18-16.59.50:713][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/F7/KJPZUWVSOWHPPAETHD9VZV
+[2025.11.18-16.59.50:714][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KJPZUWVSOWHPPAETHD9VZV35A83CF941B10EE070D58D9C15A9F2B9.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/F7/KJPZUWVSOWHPPAETHD9VZV.uasset'
+[2025.11.18-16.59.50:722][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/2/NS/BVDCKNJ4KGFIO87WCTIOSK
+[2025.11.18-16.59.50:722][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/BVDCKNJ4KGFIO87WCTIOSK179BB314413AD72CB6EF2B85CEA0D902.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/2/NS/BVDCKNJ4KGFIO87WCTIOSK.uasset'
+[2025.11.18-16.59.50:731][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/UC/7SGXFL478C8RE5ZJSF2X42
+[2025.11.18-16.59.50:731][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/7SGXFL478C8RE5ZJSF2X4284176B95491B00BB51453AB47B5F64A1.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/UC/7SGXFL478C8RE5ZJSF2X42.uasset'
+[2025.11.18-16.59.50:740][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/HQ/LN7ASDDBFHYRXU3RM3YRXA
+[2025.11.18-16.59.50:740][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/LN7ASDDBFHYRXU3RM3YRXAEE12D2FF4CB5104A6A97D5A706B27CAB.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/HQ/LN7ASDDBFHYRXU3RM3YRXA.uasset'
+[2025.11.18-16.59.50:748][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/A/PR/JX6C6Z7FST763TK5JPJJBP
+[2025.11.18-16.59.50:749][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/JX6C6Z7FST763TK5JPJJBPAC8899AD40D3F1326158AC9AE0EFF400.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/A/PR/JX6C6Z7FST763TK5JPJJBP.uasset'
+[2025.11.18-16.59.50:758][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/W7/7OLT0H9TLO59E7NI2AK5FR
+[2025.11.18-16.59.50:758][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/7OLT0H9TLO59E7NI2AK5FRF525DA1A4204F0D9A49E979DE6E74336.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/W7/7OLT0H9TLO59E7NI2AK5FR.uasset'
+[2025.11.18-16.59.50:768][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/D/AX/ZY1TZ2LQNJOVAO4C8BYM2F
+[2025.11.18-16.59.50:768][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/ZY1TZ2LQNJOVAO4C8BYM2F2C87054F48CD0F87B6A5D68FAA7B8A9C.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/D/AX/ZY1TZ2LQNJOVAO4C8BYM2F.uasset'
+[2025.11.18-16.59.50:780][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/9/GL/SWQ6BBOU51IXGXZ1M2X449
+[2025.11.18-16.59.50:780][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/SWQ6BBOU51IXGXZ1M2X449802FA87C4FCF252E74E97E8475A1A6C1.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/9/GL/SWQ6BBOU51IXGXZ1M2X449.uasset'
+[2025.11.18-16.59.50:788][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/2/ID/QJQCPE975V538MQACS3MXB
+[2025.11.18-16.59.50:789][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/QJQCPE975V538MQACS3MXBD0ED2E9B41AB2E979F7C03AEF85B63B8.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/2/ID/QJQCPE975V538MQACS3MXB.uasset'
+[2025.11.18-16.59.50:798][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/ZB/EH51Y8STEL35E0OG6PEIJS
+[2025.11.18-16.59.50:798][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/EH51Y8STEL35E0OG6PEIJSC87A5D704D37AA9710F10E9DD740DA38.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/ZB/EH51Y8STEL35E0OG6PEIJS.uasset'
+[2025.11.18-16.59.50:807][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/6/DV/OFYD2CCTAM7Y0CDUWOQ5QL
+[2025.11.18-16.59.50:808][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/OFYD2CCTAM7Y0CDUWOQ5QLC6F09B4E4E48661BD15E0384312D445E.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/6/DV/OFYD2CCTAM7Y0CDUWOQ5QL.uasset'
+[2025.11.18-16.59.50:816][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/DL/96WVEIQ9M8O02SRVG0O9UM
+[2025.11.18-16.59.50:816][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/96WVEIQ9M8O02SRVG0O9UM6F7CA7444690C171521C15BA0C7D3B47.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/DL/96WVEIQ9M8O02SRVG0O9UM.uasset'
+[2025.11.18-16.59.50:825][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/Q5/FUZ898Y0RW71SGREZJZROE
+[2025.11.18-16.59.50:825][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/FUZ898Y0RW71SGREZJZROE803B757745EB2F1FC5ECAC8B6B83E2B4.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/Q5/FUZ898Y0RW71SGREZJZROE.uasset'
+[2025.11.18-16.59.50:834][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/1/RL/BO4KRVNTDYFOEHMRG58Z9K
+[2025.11.18-16.59.50:834][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/BO4KRVNTDYFOEHMRG58Z9KA454B976435C82CE11F7188F4448A1CF.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/1/RL/BO4KRVNTDYFOEHMRG58Z9K.uasset'
+[2025.11.18-16.59.50:843][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/XM/FRHSALLNNS4TSXQQABUOL0
+[2025.11.18-16.59.50:844][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/FRHSALLNNS4TSXQQABUOL000CA79C94AB89203733BA79179ABD532.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/XM/FRHSALLNNS4TSXQQABUOL0.uasset'
+[2025.11.18-16.59.50:851][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/92/U674CX6O7WPIJQTBNRYPJZ
+[2025.11.18-16.59.50:852][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/U674CX6O7WPIJQTBNRYPJZ5035BB2544CD54A2096D25BD1364B987.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/92/U674CX6O7WPIJQTBNRYPJZ.uasset'
+[2025.11.18-16.59.50:861][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/3/CT/NTR2XBDVXTFKFLVT1G4QCU
+[2025.11.18-16.59.50:861][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/NTR2XBDVXTFKFLVT1G4QCU1FCA92D141F4C28F749F27B23070D3F8.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/3/CT/NTR2XBDVXTFKFLVT1G4QCU.uasset'
+[2025.11.18-16.59.50:870][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/82/8P3W8RWDHF5K60HMLX2Z24
+[2025.11.18-16.59.50:870][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/8P3W8RWDHF5K60HMLX2Z2442B4E69D4034BDC517BF4D975BA8FF59.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/82/8P3W8RWDHF5K60HMLX2Z24.uasset'
+[2025.11.18-16.59.50:878][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/9I/P8HUCXAR68GB5381W86U22
+[2025.11.18-16.59.50:879][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/P8HUCXAR68GB5381W86U22089C11A1482DAFFD5B9F809F6CA8A0C9.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/9I/P8HUCXAR68GB5381W86U22.uasset'
+[2025.11.18-16.59.50:887][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/1/JJ/QLAU7D47XVTRU5SCBFZPC5
+[2025.11.18-16.59.50:888][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/QLAU7D47XVTRU5SCBFZPC599021B8C446CB634DB9D7FBF047011F4.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/1/JJ/QLAU7D47XVTRU5SCBFZPC5.uasset'
+[2025.11.18-16.59.50:898][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/OI/USBR0RAET3VSYSVFFSPU1K
+[2025.11.18-16.59.50:898][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/USBR0RAET3VSYSVFFSPU1K78D5695049CE26C210B9C6B2D37DAA98.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/OI/USBR0RAET3VSYSVFFSPU1K.uasset'
+[2025.11.18-16.59.50:907][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/ZQ/3JN3RZ2FS84BP2XVXHBBYL
+[2025.11.18-16.59.50:908][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/3JN3RZ2FS84BP2XVXHBBYL2B77966542D4515E55F4CBA04D45A7A3.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/ZQ/3JN3RZ2FS84BP2XVXHBBYL.uasset'
+[2025.11.18-16.59.50:916][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/Q0/LDGPDQ8BKF1B8YGQ4WSTVI
+[2025.11.18-16.59.50:917][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/LDGPDQ8BKF1B8YGQ4WSTVIAB54B56E498D593359B8A9AD192A26CA.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/Q0/LDGPDQ8BKF1B8YGQ4WSTVI.uasset'
+[2025.11.18-16.59.50:927][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/1/FX/NQAVB19H35I9WI4DJVUQ69
+[2025.11.18-16.59.50:927][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/NQAVB19H35I9WI4DJVUQ69FFE9EB1349CEBAE1994B8C867C80E85D.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/1/FX/NQAVB19H35I9WI4DJVUQ69.uasset'
+[2025.11.18-16.59.50:936][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/H2/JU0UQNRBYBE9XL3QDP9RR3
+[2025.11.18-16.59.50:936][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/JU0UQNRBYBE9XL3QDP9RR3F3B269A4404B27A4635B0F8DA40C0061.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/H2/JU0UQNRBYBE9XL3QDP9RR3.uasset'
+[2025.11.18-16.59.50:946][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/6/FM/JEWLL3A325NNGZCMTOALJ0
+[2025.11.18-16.59.50:946][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/JEWLL3A325NNGZCMTOALJ0A7E8A9D64D8CA53D4B54EF9829EDD0A2.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/6/FM/JEWLL3A325NNGZCMTOALJ0.uasset'
+[2025.11.18-16.59.50:954][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/A1/KT9Z506V8V21U36507VO12
+[2025.11.18-16.59.50:955][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KT9Z506V8V21U36507VO1290A940504EA2E48641FA638427881235.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/A1/KT9Z506V8V21U36507VO12.uasset'
+[2025.11.18-16.59.50:963][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/2/FE/4MSNMNCWN3QL4FWMA5VSRM
+[2025.11.18-16.59.50:963][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/4MSNMNCWN3QL4FWMA5VSRM4A02E403419FB1A4A4779CA8A66ECFDA.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/2/FE/4MSNMNCWN3QL4FWMA5VSRM.uasset'
+[2025.11.18-16.59.50:972][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/C/JJ/M0304SC7NE95LEXSTIPI1T
+[2025.11.18-16.59.50:973][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/M0304SC7NE95LEXSTIPI1T2C763A6D4C95E94C283144BC447CF08E.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/C/JJ/M0304SC7NE95LEXSTIPI1T.uasset'
+[2025.11.18-16.59.50:983][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/9/B9/KKGD431EQFJMIMVNHC56PC
+[2025.11.18-16.59.50:984][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KKGD431EQFJMIMVNHC56PCC72AE7C043812AEA30410DB334527AB2.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/9/B9/KKGD431EQFJMIMVNHC56PC.uasset'
+[2025.11.18-16.59.50:992][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/4/FQ/SCRY45BNNVC2WLBP45PZ09
+[2025.11.18-16.59.50:993][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/SCRY45BNNVC2WLBP45PZ09897DF16A45E70E8B72E663A19D00A9F0.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/4/FQ/SCRY45BNNVC2WLBP45PZ09.uasset'
+[2025.11.18-16.59.51:001][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/0/L0/EFOLRRQ21UORN9IOZJ0WPP
+[2025.11.18-16.59.51:002][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/EFOLRRQ21UORN9IOZJ0WPP27C3E60346C1C27D15A0CEB4C394DB18.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/0/L0/EFOLRRQ21UORN9IOZJ0WPP.uasset'
+[2025.11.18-16.59.51:010][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/3B/UQ4T2N53EXHNE7CYW5V1OE
+[2025.11.18-16.59.51:010][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/UQ4T2N53EXHNE7CYW5V1OEAB313E3440283F04FDC509BA51B9EDC3.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/3B/UQ4T2N53EXHNE7CYW5V1OE.uasset'
+[2025.11.18-16.59.51:018][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/9/JE/A1S3H1EUD0QXEN4VN62RNJ
+[2025.11.18-16.59.51:018][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/A1S3H1EUD0QXEN4VN62RNJ7EFABAE145F43A2C6205F9B336CA986A.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/9/JE/A1S3H1EUD0QXEN4VN62RNJ.uasset'
+[2025.11.18-16.59.51:027][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/5/1I/GV5G2WGZRQP1B2J3TL5EB0
+[2025.11.18-16.59.51:027][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/GV5G2WGZRQP1B2J3TL5EB0DDE4D94C416D84567A48688EE3DCB104.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/5/1I/GV5G2WGZRQP1B2J3TL5EB0.uasset'
+[2025.11.18-16.59.51:035][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/0/N0/AACY150UHJ0FCXZWZBO07O
+[2025.11.18-16.59.51:035][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/AACY150UHJ0FCXZWZBO07O519902CA40193C81FED7FABBCED76E1B.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/0/N0/AACY150UHJ0FCXZWZBO07O.uasset'
+[2025.11.18-16.59.51:044][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/7W/J01NWMBAH8DBV21BP4EJ2L
+[2025.11.18-16.59.51:044][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/J01NWMBAH8DBV21BP4EJ2L97D06FA74D4CEBE86F3635BEC7B226F2.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/7W/J01NWMBAH8DBV21BP4EJ2L.uasset'
+[2025.11.18-16.59.51:051][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/C/A4/5QX5IOQLQSTJ1MUV3DDH43
+[2025.11.18-16.59.51:051][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/5QX5IOQLQSTJ1MUV3DDH43204311394ED6C157A827838050F4A4E1.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/C/A4/5QX5IOQLQSTJ1MUV3DDH43.uasset'
+[2025.11.18-16.59.51:060][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/0Y/4BRLGW62ZXVH0YI3NH2HE5
+[2025.11.18-16.59.51:060][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/4BRLGW62ZXVH0YI3NH2HE5F18B3FF24C98AD87648E61857DFE9F25.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/0Y/4BRLGW62ZXVH0YI3NH2HE5.uasset'
+[2025.11.18-16.59.51:068][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/5/HV/03YPYDOY34SXIHK5K703VI
+[2025.11.18-16.59.51:069][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/03YPYDOY34SXIHK5K703VI333B43A74297814D9B818FA05ACAA323.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/5/HV/03YPYDOY34SXIHK5K703VI.uasset'
+[2025.11.18-16.59.51:077][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/F/5D/7WR9LXRXCYQZE8316LS4NP
+[2025.11.18-16.59.51:077][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/7WR9LXRXCYQZE8316LS4NP75F9E514491F9F5B16B1BFAF552524B0.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/F/5D/7WR9LXRXCYQZE8316LS4NP.uasset'
+[2025.11.18-16.59.51:086][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/OS/RGC5R8M001QR49D0RHW7WO
+[2025.11.18-16.59.51:086][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/RGC5R8M001QR49D0RHW7WO0B5AE5124E8B4FC1856DFBA99B8D959B.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/OS/RGC5R8M001QR49D0RHW7WO.uasset'
+[2025.11.18-16.59.51:094][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/5/IH/B1BGNXQGJME0X12ZXV5HDM
+[2025.11.18-16.59.51:095][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/B1BGNXQGJME0X12ZXV5HDM7E7C0D994DD494DA59B64AAEEF3BD47A.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/5/IH/B1BGNXQGJME0X12ZXV5HDM.uasset'
+[2025.11.18-16.59.51:103][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/C/YA/22CWD8L1PA2ZKUG0IPUF6P
+[2025.11.18-16.59.51:104][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/22CWD8L1PA2ZKUG0IPUF6P5A74CBA341C52156A3140EBB85F079FD.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/C/YA/22CWD8L1PA2ZKUG0IPUF6P.uasset'
+[2025.11.18-16.59.51:113][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/9/WR/KZXGE8DZ3630PK2RBGU5TQ
+[2025.11.18-16.59.51:113][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/KZXGE8DZ3630PK2RBGU5TQD5EA2BFD459C18FA192676B6C668EFE1.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/9/WR/KZXGE8DZ3630PK2RBGU5TQ.uasset'
+[2025.11.18-16.59.51:122][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/FJ/3KPDUWNMG2DX9CBZB4CET6
+[2025.11.18-16.59.51:122][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/3KPDUWNMG2DX9CBZB4CET6AF842A59419404A8288824BE7791D6EC.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/FJ/3KPDUWNMG2DX9CBZB4CET6.uasset'
+[2025.11.18-16.59.51:131][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/6/XM/FCJFISAS90RL7VN0EZ2UKG
+[2025.11.18-16.59.51:131][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/FCJFISAS90RL7VN0EZ2UKG54E33153417230EA0C7EDB8D22AF7D53.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/6/XM/FCJFISAS90RL7VN0EZ2UKG.uasset'
+[2025.11.18-16.59.51:139][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/8/65/NYTTE6A7TDYO5PZ9UACYDK
+[2025.11.18-16.59.51:139][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/NYTTE6A7TDYO5PZ9UACYDKD060B9F84F3E1A0E0B9D259D96D1CE90.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/8/65/NYTTE6A7TDYO5PZ9UACYDK.uasset'
+[2025.11.18-16.59.51:148][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/F/2M/JH0D2H3EZE8SAI2O74HBC4
+[2025.11.18-16.59.51:148][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/JH0D2H3EZE8SAI2O74HBC4DFED86F7436E32C594896E95FCFA61BD.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/F/2M/JH0D2H3EZE8SAI2O74HBC4.uasset'
+[2025.11.18-16.59.51:156][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/2O/HSDQFT4TZ84O1EBMFSRLUV
+[2025.11.18-16.59.51:156][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/HSDQFT4TZ84O1EBMFSRLUV2C6383474C7CCDAA95A2859EACF25DA0.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/2O/HSDQFT4TZ84O1EBMFSRLUV.uasset'
+[2025.11.18-16.59.51:165][420]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/0V/UKZ7WCLMPGSJCCMIPEFELL
+[2025.11.18-16.59.51:166][420]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/UKZ7WCLMPGSJCCMIPEFELL4765EDB047056311657732874E3CAFF1.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/0V/UKZ7WCLMPGSJCCMIPEFELL.uasset'
+[2025.11.18-16.59.51:177][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 713.988 ms (total: 6.85 sec)
+[2025.11.18-16.59.51:297][420]LogContentValidation: Display: Starting to validate 57 assets
+[2025.11.18-16.59.51:297][420]LogContentValidation: Enabled validators:
+[2025.11.18-16.59.51:297][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-16.59.51:297][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-16.59.51:297][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-16.59.51:297][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-16.59.51:297][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-16.59.51:297][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-16.59.51:298][420]AssetCheck: /Game/Map/OldMap Validating asset
+[2025.11.18-16.59.51:341][420]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GitHub/BlackTide/Black_Tide/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.18-16.59.58:620][842]Cmd: EDIT COPY
+[2025.11.18-16.59.58:940][858]Cmd: EDIT PASTE
+[2025.11.18-17.00.20:042][835]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-17.00.20:378][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Pot_01.SM_Pot_01
+[2025.11.18-17.00.20:378][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Pot_01.SM_Pot_01
+[2025.11.18-17.00.20:379][842]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Pot_01.SM_Pot_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_12
+[2025.11.18-17.00.21:534][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.11.18-17.00.21:539][909]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.11.18-17.00.21:547][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Pot_01.SM_Pot_01
+[2025.11.18-17.00.21:547][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Pot_01.SM_Pot_01
+[2025.11.18-17.00.21:550][909]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Pot_01.SM_Pot_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_1935014040
+[2025.11.18-17.00.55:094][873]Cmd: EDIT COPY
+[2025.11.18-17.00.55:460][894]Cmd: EDIT PASTE
+[2025.11.18-17.00.59:409][103]Cmd: ELEMENT MIRROR Y=-1
+[2025.11.18-17.01.39:092][355]LogStreaming: Display: FlushAsyncLoading(831): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-17.01.39:428][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Cauldron_01.SM_Cauldron_01
+[2025.11.18-17.01.39:428][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Cauldron_01.SM_Cauldron_01
+[2025.11.18-17.01.39:430][362]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Cauldron_01.SM_Cauldron_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_13
+[2025.11.18-17.01.40:343][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.11.18-17.01.40:346][414]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.11.18-17.01.40:355][414]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Cauldron_01.SM_Cauldron_01
+[2025.11.18-17.01.40:355][414]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyInterior01/Meshes/SM_Cauldron_01.SM_Cauldron_01
+[2025.11.18-17.01.40:358][414]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyInterior01/Meshes/SM_Cauldron_01.SM_Cauldron_01 as actor: StaticMeshActor /Game/Map/OldMap.OldMap:PersistentLevel.StaticMeshActor_UAID_B0A460EC91C651A302_2013822042
+[2025.11.18-17.01.41:453][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5910.122070
+[2025.11.18-17.01.41:552][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-17.01.41:552][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5910.205566, Update Interval: 336.697296
+[2025.11.18-17.02.27:995][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-17.02.28:126][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.18-17.02.28:151][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.18-17.02.28:173][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.18-17.02.28:191][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/7/0V/UKZ7WCLMPGSJCCMIPEFELL
+[2025.11.18-17.02.28:191][215]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/UKZ7WCLMPGSJCCMIPEFELL1BD58BA748C7876818A066BE61BCCAC1.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/7/0V/UKZ7WCLMPGSJCCMIPEFELL.uasset'
+[2025.11.18-17.02.28:203][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/6/YE/PIR1YUFD5524VXOIZU0BKS
+[2025.11.18-17.02.28:203][215]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/PIR1YUFD5524VXOIZU0BKS96815E46434610528AC11891778F831D.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/6/YE/PIR1YUFD5524VXOIZU0BKS.uasset'
+[2025.11.18-17.02.28:213][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/E/A5/R328XPDW57DEH4JN9LNFQB
+[2025.11.18-17.02.28:213][215]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/R328XPDW57DEH4JN9LNFQB3CD239B74A415A88817D79B14892924A.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/E/A5/R328XPDW57DEH4JN9LNFQB.uasset'
+[2025.11.18-17.02.28:223][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/A/LP/X3SUJCQOMUUW68XKOKVX1T
+[2025.11.18-17.02.28:223][215]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/X3SUJCQOMUUW68XKOKVX1TDEA59D884A88178681F9C6BCB97A436D.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/A/LP/X3SUJCQOMUUW68XKOKVX1T.uasset'
+[2025.11.18-17.02.28:232][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/OldMap/B/9S/WZGKVBQQOR28NEOTKZUOOF
+[2025.11.18-17.02.28:232][215]LogSavePackage: Moving '../../../../GitHub/BlackTide/Black_Tide/Saved/WZGKVBQQOR28NEOTKZUOOFD580C8A441D6F751D621EC806D2B481B.tmp' to '../../../../GitHub/BlackTide/Black_Tide/Content/__ExternalActors__/Map/OldMap/B/9S/WZGKVBQQOR28NEOTKZUOOF.uasset'
+[2025.11.18-17.02.28:251][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.688 ms (total: 7.10 sec)
+[2025.11.18-17.02.28:351][215]LogContentValidation: Display: Starting to validate 5 assets
+[2025.11.18-17.02.28:351][215]LogContentValidation: Enabled validators:
+[2025.11.18-17.02.28:351][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-17.02.28:351][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-17.02.28:351][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-17.02.28:351][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-17.02.28:351][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-17.02.28:351][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-17.02.28:351][215]AssetCheck: /Game/Map/OldMap Validating asset
+[2025.11.18-17.02.28:372][215]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GitHub/BlackTide/Black_Tide/Saved/SourceControl/UncontrolledChangelists.json
