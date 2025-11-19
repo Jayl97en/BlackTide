@@ -11125,3 +11125,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.19-01.44.59:532][724]LogUdpMessaging: Display: Added local interface '192.168.12.17' to multicast group '230.0.0.1:6666'
 [2025.11.19-01.44.59:537][724]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
 [2025.11.19-01.44.59:629][725]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.19-01.45.01:449][730]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53352'.
+[2025.11.19-01.45.01:453][730]LogUdpMessaging: Display: Added local interface '192.168.12.17' to multicast group '230.0.0.1:6666'
+[2025.11.19-01.45.01:458][730]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.19-01.45.01:628][731]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.19-01.45.03:469][736]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53353'.
+[2025.11.19-01.45.03:473][736]LogUdpMessaging: Display: Added local interface '192.168.12.17' to multicast group '230.0.0.1:6666'
+[2025.11.19-01.45.03:478][736]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.19-01.45.03:628][737]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
